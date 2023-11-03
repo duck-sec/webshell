@@ -1,7 +1,7 @@
 # Webshell
 
 My PHP webshell comprised of lots of cool ideas from other shells.
-Contains more features than a basic shell, but nothing I don't use more often than not. 
+Contains more features than a basic shell, but nothing I don't use during actual testing. Slightly larger file, hopefully useful features! 
 
 ## Table of Contents
 
@@ -23,6 +23,7 @@ $ git clone https://github.com/duck-sec/webshell
 Features include: 
 - Cookie based authentication
 - Masquerade as an Apache 404 for unauthorised users
+- Execute commands
 - Upload / Download files
 - Spawn a reverse shell (catch with netcat)
 - Basic file table to make navigation easy

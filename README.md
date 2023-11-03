@@ -9,6 +9,7 @@ Contains more features than a basic shell, but nothing I don't use during actual
 - [Features](#features)
 - [Usage](#usage)
 - [Example](#example)
+- [Important](#important)
 
 ## Installation
 
@@ -48,3 +49,8 @@ Attempting to access the shell without this cookie will cause the shell to prete
 ## Example
 
 ![Screenshot](screenshot.png)
+
+## Important
+
+This code is provided for educational purposes as well as for use in legitimate, AUTHORISED, security testing.
+Do not use this shell to attempt to access any system which you do not have explicit permission to test or practice on.
